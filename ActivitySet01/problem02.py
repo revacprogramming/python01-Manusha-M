@@ -1,3 +1,2 @@
-# Why Program
-
-prinq("hello world")
+## wh
+print("hello world")
